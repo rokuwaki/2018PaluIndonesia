@@ -4,7 +4,7 @@
 
 - This repository stores the preliminary source model of the Mw 7.6 2018 Palu, Indonesia, earthquake.
 
-- Model builders: [Ryo Okuwaki](mailto:rokuwaki@geol.tsukuba.ac.jp), Yuji Yagi, and Kousuke Shimizu (University of Tsukuba)
+- Model builders: [Ryo Okuwaki](https://rokuwaki.github.io), [Yuji Yagi](http://www.geol.tsukuba.ac.jp/~yagi-y/eng/index.html), and Kousuke Shimizu (University of Tsukuba)
 
 
 <img src="./fig/181017122702_map.png" width="80%" />

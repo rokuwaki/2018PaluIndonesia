@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/153305275.svg)](https://zenodo.org/badge/latestdoi/153305275)
 
-# 2018PaluIndonesia
+# Rupture process of the 2018 Palu, Indonesia, earthquake
 
 - This repository stores the preliminary source model of the Mw 7.6 2018 Palu, Indonesia, earthquake.
 

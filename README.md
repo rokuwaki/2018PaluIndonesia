@@ -57,6 +57,12 @@
 
 *[Note!] Beach ball is plotted using a lower-hemisphere stereographic projection*
 
+- [Temporal evolution of slip rate](./model_181017122702/timeevo.txt)
+
+<img src="./fig/timeevo.png" width="60%" />
+
+*[Note!] Maximum slip rate along dip is projected along the strike direction.*
+
 
 - [Moment-rate function](./model_181017122702/st_181017122702.dat)
 

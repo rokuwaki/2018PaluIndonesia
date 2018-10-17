@@ -12,11 +12,11 @@
 # Data
 
 - Teleseismic body waves at 51 stations, downloaded via [IRIS-DMC](http://ds.iris.edu/wilber3/find_event), were used for constructing the source model.
+  - [SAC files](./sacfiles): initial phases were manually picked and labeled as AMARKERs.
 
 <img src="./fig/station.png" width="15%" />
 
-- [SAC files](./sacfiles): initial phases were manually picked and labeled as AMARKERs.
-
+  
 - The epicenter (0.178°S, 119.840°E) determined by [USGS NEIC](https://earthquake.usgs.gov/earthquakes/eventpage/us1000h3p4/executive) was adopted for the initial rupture point for constructing the source model.
 
 

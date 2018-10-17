@@ -6,16 +6,16 @@
 
 - Model builders:
 
-    - [Ryo Okuwaki](rokuwaki@gmail.com), Yuji Yagi, and Kousuke Shimizu (University of Tsukuba)
+    - [Ryo Okuwaki](mailto:rokuwaki@gmail.com), Yuji Yagi, and Kousuke Shimizu (University of Tsukuba)
 
 
-<img src="./181017122702_map.png" width="50%" />
+<img src="./fig/181017122702_map.png" width="80%" />
 
 # Data
 
 - Teleseismic body waves at 51 stations, downloaded via [IRIS-DMC](http://ds.iris.edu/wilber3/find_event), were used for constructing the source model.
 
-<img src="./station.png" width="15%" />
+<img src="./fig/station.png" width="15%" />
 
 - [SAC files](./sacfiles)
 
@@ -29,7 +29,7 @@
 
 - We estimated the spatiotemporal distribution of the moment tensor solutions by using the extended framework of Yagi and Fukahata (2011, GJI, doi:[10.1111/j.1365-246X.2011.05043.x](https://doi.org/10.1111/j.1365-246X.2011.05043.x)). The detailed description for the methodology is in preparation for submission (Shimizu et al.).
 
-- What we provide here is the distribution of the slip and the preferred nodal plane (strike, dip, and rake). We extracted the double couple components from the moment tensor solutions, and selected the preferred nodal planes that are consistent with the local tectonic setting (Bellier et al., 2001, doi:[10.1046/j.1365-3121.2001.00382.x](https://doi.org/10.1046/j.1365-3121.2001.00382.x)).
+- What we provide here is the distribution of the slip and the preferred nodal plane (strike, dip, and rake). We extracted the double couple components from the moment tensor solutions, and selected the preferred nodal planes that are consistent with the local tectonic setting (Bellier et al., 2001, TerraNova, doi:[10.1046/j.1365-3121.2001.00382.x](https://doi.org/10.1046/j.1365-3121.2001.00382.x)).
 
 - We set the maximum rupture velocity at 4.5 km/s, accounting for a possibility of supershear-rupture propagation.
 
@@ -61,14 +61,14 @@ No        D0           lonR           latR             dR         L         W   
 
 - Strike-dip view of the result
 
-<img src="./181017122702_XY.png" width="50%" />
+<img src="./fig/181017122702_xy.png" width="80%" />
 
 *Note! Beach ball is plotted using a lower-hemisphere stereographic projection*
 
 - [Moment-rate function](./model_181017122702/st_181017122702.dat)
 
-<img src="./st.png" width="15%" />
+<img src="./fig/st.png" width="15%" />
 
 - Waveform fitting
 
-<img src="./fittings.png" width="50%" />
+<img src="./fig/fittings.png" width="50%" />

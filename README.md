@@ -29,9 +29,8 @@
 
 - We estimated the spatiotemporal distribution of the moment tensor solutions by using the extended framework of Yagi and Fukahata (2011, GJI, doi:[10.1111/j.1365-246X.2011.05043.x](https://doi.org/10.1111/j.1365-246X.2011.05043.x)). The detailed description for the methodology is in preparation for submission (Shimizu et al.).
 
-- What we provide here is the distribution of the slip and the preferred nodal plane (strike, dip, and rake). We extracted the double couple components from the moment tensor solutions, and selected the preferred nodal planes that are consistent with the local tectonic setting (Bellier et al., 2001, TerraNova, doi:[10.1046/j.1365-3121.2001.00382.x](https://doi.org/10.1046/j.1365-3121.2001.00382.x)).
 
-- We set the maximum rupture velocity at 4.5 km/s, accounting for a possibility of supershear-rupture propagation.
+- What we provide here is the distribution of the slip and the preferred nodal plane (strike, dip, and rake). We extracted the double couple components from the moment tensor solutions, and selected the preferred nodal planes that are consistent with the local tectonic setting (Bellier et al., 2001, TerraNova, doi:[10.1046/j.1365-3121.2001.00382.x](https://doi.org/10.1046/j.1365-3121.2001.00382.x)). We used a model plane with a strike 358° and dip 69°, but we solved the moment tensor for each source node on the model plane, i.e., we did not assume fault geometry for each source node. We set the maximum rupture velocity at 4.5 km/s, accounting for a possibility of supershear-rupture propagation.
 
 - [LonLatDepSlipDCprefered2018SulawesiIndonesia.txt](./model_181017122702/LonLatDepSlipDCprefered2018SulawesiIndonesia.txt)
 

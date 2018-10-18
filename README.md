@@ -61,8 +61,9 @@
 
 <img src="./fig/timeevo.png" width="60%" />
 
-*[Note!] Maximum slip rate along dip is projected along the strike direction.*
-
+*[Note!] Maximum slip rate along dip is projected along the strike direction.*  
+*- Data for the averaged slip rate along dip projected along strike is available [here](./model_181017122702/timeevo_ave.txt).*  
+*- Static data for the averaged and maximum slip along dip projected along strike are available [here](./model_181017122702/slip_along_dip.txt).*  
 
 - [Moment-rate function](./model_181017122702/st_181017122702.dat)
 

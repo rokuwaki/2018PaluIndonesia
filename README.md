@@ -70,6 +70,6 @@
 
 <img src="./fig/181022013638_timeevo_ave.png" width="60%" />
 
-<img src="./fig/181022013638_st.png" width="40%" />
+<img src="./fig/181022013638_st.png" width="30%" />
 
 <img src="./fig/181022013638_fitting.png" width="60%" />

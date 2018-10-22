@@ -52,7 +52,7 @@
   
   - Snapshots of slip rate distribution at 2 sec. interval (
 
-- [`./model_181017122702/slip-rate-time_along_strike.txt`](./model_181017122702/slip-rate-time_along_strike.txt)
+- [`./model_181022013638/slip-rate-time_along_strike.txt`](./model_181022013638/slip-rate-time_along_strike.txt)
 
   - Temporal evolution of slip rate along strike
 
@@ -70,6 +70,6 @@
 
 <img src="./fig/181022013638_timeevo_ave.png" width="60%" />
 
-<img src="./fig/181022013638_st.png" width="20%" />
+<img src="./fig/181022013638_st.png" width="60%" />
 
-<img src="./fig/fittings.png" width="50%" />
+<img src="./fig/fittings.png" width="60%" />

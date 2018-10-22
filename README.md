@@ -14,7 +14,7 @@
 # Data
 
 - Teleseismic body waves at 49 stations, downloaded via [IRIS-DMC](http://ds.iris.edu/wilber3/find_event), were used for constructing the source model.
-  - [SAC files](./sacfiles): initial phases were manually picked and labeled as AMARKERs.
+  - [`./sacfiles`](./sacfiles): SAC formatted files with initial phases manually picked and labeled as AMARKERs.
 
 <img src="./fig/station.png" width="15%" />
 

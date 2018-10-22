@@ -62,7 +62,7 @@
 
 <img src="./fig/181022013638_map.png" width="60%" />
 
-<img src="./fig/181022013638_xy.png" width="60%" />
+<img src="./fig/181022013638_xy.png" width="80%" />
 
 *[Note!] Beach ball is plotted using a lower-hemisphere stereographic projection*
 
@@ -70,6 +70,6 @@
 
 <img src="./fig/181022013638_timeevo_ave.png" width="60%" />
 
-<img src="./fig/181022013638_st.png" width="60%" />
+<img src="./fig/181022013638_st.png" width="40%" />
 
 <img src="./fig/fittings.png" width="60%" />

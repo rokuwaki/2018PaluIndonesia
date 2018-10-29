@@ -49,8 +49,8 @@
   - Slip distribution along strike
 
 - [`./model_181022013638/snap_*.txt`](./model_181022013638/)
-  
-  - Snapshots of slip rate distribution at 2 sec. interval (
+
+  - Snapshots of slip rate distribution at 1 sec. interval (
 
 - [`./model_181022013638/slip-rate-time_along_strike.txt`](./model_181022013638/slip-rate-time_along_strike.txt)
 
@@ -65,8 +65,6 @@
 <img src="./fig/181022013638_xy.png" width="80%" />
 
 *[Note!] Beach ball is plotted using a lower-hemisphere stereographic projection*
-
-<img src="./fig/181022013638_snap.png" width="60%" />
 
 <img src="./fig/181022013638_timeevo_ave.png" width="60%" />
 

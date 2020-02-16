@@ -18,7 +18,7 @@ year = {2020}
 ```
 
 ## Preprint
-A non-peer reviewed preprint is available at [doi: 10.31223/osf.io/j4cas](https://doi.org/10.31223/osf.io/j4cas), powered by [EarthArXiv](https://eartharxiv.org).
+A non-peer reviewed preprint is available at [doi:10.31223/osf.io/j4cas](https://doi.org/10.31223/osf.io/j4cas), powered by [EarthArXiv](https://eartharxiv.org).
 
 ## Supplementary material
 [Supplementary material](https://osf.io/v35uj/) contains 4 texts, 1 table, 11 figures, and [1 movie](./pubFigure/movieS1.mp4).

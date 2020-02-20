@@ -4,6 +4,7 @@
 
 
 ## Citation
+Under consideration by [*EPSL*](https://www.journals.elsevier.com/earth-and-planetary-science-letters)  
 ```bibtex
 @article{Okuwaki2020,
 author = {Okuwaki, Ryo and Hirano, Shiro and Yagi, Yuji and Shimizu, Kousuke},
@@ -18,7 +19,7 @@ year = {2020}
 ```
 
 ## Preprint
-A non-peer reviewed preprint is available at [doi:10.31223/osf.io/j4cas](https://doi.org/10.31223/osf.io/j4cas), powered by [EarthArXiv](https://eartharxiv.org).
+A non-peer reviewed preprint is available at [10.31223/osf.io/j4cas](https://doi.org/10.31223/osf.io/j4cas).
 
 ## Supplementary material
 [Supplementary material](https://osf.io/v35uj/) contains 4 texts, 1 table, 11 figures, and [1 movie](./pubFigure/movieS1.mp4).

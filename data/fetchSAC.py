@@ -4,7 +4,6 @@ client = Client('IRIS')
 from obspy import UTCDateTime
 import os
 import glob
-import numpy as np
 
 def fetchSACfromPickedSAC(indir, pickedsacname, outdir, rawsacname):
     tmp = obspy.read(indir + pickedsacname)

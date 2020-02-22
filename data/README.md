@@ -2,7 +2,7 @@
 Model parameters  
 - `sac`  
 SAC-formatted data used for all the models. Manually picked *P* phase is added as `AMARKER` in each file.   
-Alternatively, all the data can be downloaded from IRIS DMC by executing [`fetchSAC.py`](./fetchSAC.py).  
+Alternatively, all the data can be downloaded from IRIS DMC by executing [`fetchSAC.py`](./fetchSAC.py) or [`fetchSACfromList.py`](./fetchSACfromList.py).  
 - `Belleir2006Tectono_PKF_MF_traced.txt`  
 Traces of Palu-Koro and Matano faults presented in [Bellier et al., 2006, Tectonophys.](https://doi.org/10.1016/j.tecto.2005.10.036)  
 - `EST.txt`, `MF.txt`, `NST.txt`, `PB2002_BS.txt`, `PKF.txt`  

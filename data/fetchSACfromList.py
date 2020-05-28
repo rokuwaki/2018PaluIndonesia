@@ -22,4 +22,4 @@ with open('stationlist.csv') as f:
         print(outdir + rawsacname)
         rawsactrace.write(outdir + rawsacname, format='SAC')
 f.close()
-print(len(glob.glob(outdir+'/*.SAC')), 'data were donwloaded.')
+print(len(glob.glob(outdir+'*.SAC')), 'data were donwloaded.')

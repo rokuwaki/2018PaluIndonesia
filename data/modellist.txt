@@ -12,3 +12,4 @@
 190904092511  synthetic, simple two-point sources, input
 190904092534  synthetic, simple two-point sources, solution
 190903103328  synthetic, real data reproduction, input from 190827153432
+200525191904  model with USGS hypo depth at 20 km

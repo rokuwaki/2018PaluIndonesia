@@ -22,7 +22,7 @@ year = {2020}
 A non-peer reviewed preprint is available at [10.31223/osf.io/j4cas](https://doi.org/10.31223/osf.io/j4cas).
 
 ## Supplementary material
-[Supplementary material](https://osf.io/v35uj/) contains 4 texts, 1 table, 12 figures, and [1 movie](./pubFigure/movieS1.mp4).
+[Supplementary material](https://osf.io/v35uj/) contains 4 texts, 1 table, 12 figures, and [1 movie](./pubFigure/movieS1R.mp4).
 
 ## Figures
 All the figures presented in the manuscript can be retrieved via [Jupyter notebook](https://nbviewer.jupyter.org/github/rokuwaki/2018PaluIndonesia/blob/master/genFigure.ipynb).

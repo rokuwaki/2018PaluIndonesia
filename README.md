@@ -19,8 +19,8 @@ year = {2020}
 }
 ```
 
-## [Accepted version](https://www.geol.tsukuba.ac.jp/~rokuwaki/paper/2020_ROSHYYKS_EPSL.pdf)
-licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+## Accepted version
+Available at author's [personal homepage](https://www.geol.tsukuba.ac.jp/~rokuwaki/paper/2020_ROSHYYKS_EPSL.pdf), licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 ## Figures
 All the figures presented in the manuscript and supplementary material can be retrieved via [Jupyter notebook](https://nbviewer.jupyter.org/github/rokuwaki/2018PaluIndonesia/blob/master/genFigure.ipynb).

@@ -2,6 +2,7 @@
 [Ryo Okuwaki](https://www.geol.tsukuba.ac.jp/~rokuwaki/), [Shiro Hirano](http://interfacial.jp), [Yuji Yagi](http://www.geol.tsukuba.ac.jp/~yagi-y/eng/index.html), & [Kousuke Shimizu](https://orcid.org/0000-0002-8918-4285) (2020)  
 *Earth Planet. Sci. Lett.*  
 [DOI: 10.1016/j.epsl.2020.116449](https://doi.org/10.1016/j.epsl.2020.116449)
+<p align="center"><img src="./pubFigure/figure6.png" /></p>
 
 ## Citation
 ```bibtex
